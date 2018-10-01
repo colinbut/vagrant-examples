@@ -10,3 +10,6 @@
 [submodule "vagrant-project-environments"]
 	path = vagrant-project-environments
 	url = https://github.com/colinbut/vagrant-project-environments
+[submodule "vagrant-isolated-dev-environment"]
+	path = vagrant-isolated-dev-environment
+	url = https://github.com/colinbut/vagrant-isolated-dev-environment
