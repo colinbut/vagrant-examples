@@ -16,3 +16,6 @@
 [submodule "vagrant-local-dev-env"]
 	path = vagrant-local-dev-env
 	url = https://github.com/colinbut/vagrant-local-dev-env
+[submodule "vagrant-getting-started"]
+	path = vagrant-getting-started
+	url = https://github.com/colinbut/vagrant-getting-started
