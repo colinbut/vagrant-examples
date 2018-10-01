@@ -1,3 +1,6 @@
 [submodule "vagrant-dev-env"]
 	path = vagrant-dev-env
 	url = https://github.com/colinbut/vagrant-dev-env
+[submodule "vagrant-elk"]
+	path = vagrant-elk
+	url = https://github.com/colinbut/vagrant-elk
