@@ -13,3 +13,6 @@
 [submodule "vagrant-isolated-dev-environment"]
 	path = vagrant-isolated-dev-environment
 	url = https://github.com/colinbut/vagrant-isolated-dev-environment
+[submodule "vagrant-local-dev-env"]
+	path = vagrant-local-dev-env
+	url = https://github.com/colinbut/vagrant-local-dev-env
