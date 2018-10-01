@@ -4,3 +4,9 @@
 [submodule "vagrant-elk"]
 	path = vagrant-elk
 	url = https://github.com/colinbut/vagrant-elk
+[submodule "vagrant-ci-jenkins"]
+	path = vagrant-ci-jenkins
+	url = https://github.com/colinbut/vagrant-ci-jenkins
+[submodule "vagrant-project-environments"]
+	path = vagrant-project-environments
+	url = https://github.com/colinbut/vagrant-project-environments
